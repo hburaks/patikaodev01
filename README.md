@@ -1,5 +1,5 @@
 # Temel GIT Eğitimi Ödevi 
-~Main branch'ta README dosyası oluşturuldu.
+- Main branch'ta README dosyası oluşturuldu.
 - `git add README.md` komutu ile git'in dosyayı takip etmesi sağlandı.
 - `git commit -m "README.md dosyası oluşturuldu."` komutu ile değişiklikler commit edildi.
 - `git push` ile proje remote repository' e gönderildi.~
