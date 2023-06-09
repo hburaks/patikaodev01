@@ -4,7 +4,7 @@
 - `git commit -m "README.md dosyası oluşturuldu."` komutu ile değişiklikler commit edildi.
 - `git push` ile proje remote repository' e gönderildi.~
 
-### Branch Oluşturma
+### Developer Branch Oluşturma
 - `git branch` komutu ile mevcut branch kontrol edildi.
 Aktif olan branch, yıldız (*) işaretiyle gösterilecektir.
 
@@ -39,5 +39,22 @@ Tüm **ünlü** harfle başlayan kelimeler vurgulanacak şekilde bir paragraf **
 
     Lorem **ipsum** dolor sit **amet**, consectetur **adipiscing** **elit**, sed do **eiusmod** tempor **incididunt** **ut** labore **et** dolore magna **aliqua**. **Ut** **enim** **ad** minim veniam, quis nostrud **exercitation** **ullamco** laboris nisi **ut** **aliquip** **ex** **ea** **commodo** consequat. Duis **aute** irure dolor **in** reprehenderit **in** voluptate velit **esse** cillum dolore **eu** fugiat nulla pariatur. **Excepteur** sint **occaecat** cupidatat non proident, sunt **in** culpa qui **officia** deserunt mollit **anim** **id** **est** laborum.
 
-  - Tüm **ünlü** harfle başlayan kelimeler vurgulanacak şekilde bir paragraf **eklendi.** ve sorun çözülmüş oldu.
+- Tüm **ünlü** harfle başlayan kelimeler vurgulanacak şekilde bir paragraf **eklendi.** ve sorun çözülmüş oldu.
+
+- Değişiklikler pushlandı ve main branchine merge edildi.
+
+### Üzeri çizili yazı oluşturma
+- ~ yazı ~ ifadesindeki boşluklar silinerek oluşturulabilir.
+- ~yazı~ ifadesindeki boşluklar silinerek oluşturulabilir.
+
+### Italic yazı oluşturma
+- _ yazı _ ifadesindeki boşluklar silinerek oluşturulabilir.
+- _yazı_ ifadesindeki boşluklar silinerek oluşturulabilir.
+
+### Resim ekleme
+![patika](https://i.ibb.co/2Npp9LN/indir.png)
+![mdstili](https://i.ibb.co/f8M0jFF/code2.png)
+
+### Link ekleme
+- Nasıl link ekleneceğini görmek için bu [bağlantıya](https://i.ibb.co/RP5pvCd/code.png) tıklayınız
 
